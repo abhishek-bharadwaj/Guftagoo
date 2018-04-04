@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "976079804998",
+    "firebase_url": "https://guftagoo-7f1c9.firebaseio.com",
+    "project_id": "guftagoo-7f1c9",
+    "storage_bucket": "guftagoo-7f1c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976079804998:android:ff23b0a671f9d467",
+        "android_client_info": {
+          "package_name": "com.abhishek.guftagoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976079804998-a8hpo07aad4d82miji0dtl8a3tvhjfgb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abhishek.guftagoo",
+            "certificate_hash": "aac5528a7c54e9f5bc45d830f736ab7417a51ee1"
+          }
+        },
+        {
+          "client_id": "976079804998-dp2ghmlq3jbfoeksrc1jc84jprgbim81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXFXGiMvgRSKqqooiDtILeeIZXSZ4WWCU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976079804998-dp2ghmlq3jbfoeksrc1jc84jprgbim81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
